@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051155527453",
+    "firebase_url": "https://mytaxi-cbbf7.firebaseio.com",
+    "project_id": "mytaxi-cbbf7",
+    "storage_bucket": "mytaxi-cbbf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051155527453:android:4a080410843d1a868fd3f4",
+        "android_client_info": {
+          "package_name": "ru.pekcherkin.mytaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051155527453-aamp04ion1am3qcf0blm3f3ihi6vfjm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.pekcherkin.mytaxi",
+            "certificate_hash": "5e8346537cdb83965716372c144eecc22fc46b9a"
+          }
+        },
+        {
+          "client_id": "1051155527453-idq9kj8rj9om2lhdv13rvfg73m2bqa4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOW_KM6fwgfCTM8dz919nJ_dx_BBA4Yxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051155527453-idq9kj8rj9om2lhdv13rvfg73m2bqa4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
